@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 print_usage() {
     echo "Usage: $0 <filesdir> <searchstr>"
     echo " <filesdir> Path to the directory to search"
